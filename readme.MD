@@ -9,11 +9,11 @@ This is a Golang project with a seeder located in `cmd/seeder/seed.go` and the m
 **Installation**
 1. Clone the repository:
 ```
-git clone https://github.com/your-username/go-project.git
+git clone https://github.com/A-H-Pooladvand/example
 ```
 2. Change into the project directory:
 ```
-cd go-project
+cd example
 ```
 3. Install the dependencies:
 ```
@@ -43,9 +43,3 @@ The main application can be started with the following command:
 ```
 go run cmd/main.go
 ```
-
-**License**
-This project is licensed under the MIT License.
-
-**Contributing**
-If you have any suggestions or bug reports, please feel free to open an issue on GitHub.
